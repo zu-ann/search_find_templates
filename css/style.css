@@ -53,3 +53,17 @@ a:hover, a:focus{
     /*margin-bottom: 20px;*/
     background-color: whitesmoke;
 }
+
+#checkboxes{
+    margin-top: 20px;
+}
+
+#btn-submit-search{
+    margin-top: 20px;
+}
+
+#search-example{
+    margin-top: 20px;
+}
+
+
